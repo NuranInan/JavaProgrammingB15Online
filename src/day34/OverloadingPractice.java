@@ -1,7 +1,6 @@
-package self_study;
+package day34;
 
-public class SelfStudy {
-
+public class OverloadingPractice {
 
     public static void main(String[] args) {
 
